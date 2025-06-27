@@ -1,0 +1,2 @@
+pip install pyaccsharedmemory
+pip install mss pillow
