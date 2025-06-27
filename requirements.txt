@@ -1,2 +1,5 @@
-pip install pyaccsharedmemory
-pip install mss pillow
+pyaccsharedmemory
+mss
+pillow
+pygetwindow
+pywin32
